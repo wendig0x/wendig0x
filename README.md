@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Wendigo
 #### I am security researcher and programmer
-Here I share my developments and participate in open sourse projects.
+Here I share my developments and participate in open source projects.
 
 Skills: reverse engineering / C++ / ASM / Python
 
